@@ -1,0 +1,10 @@
+nidhi="I live in Dayton"
+print(len(nidhi))
+print(nidhi[:10])
+print(nidhi)
+w=nidhi.split(" ")
+print(w)
+print(len(w))
+print(w.count(w))
+x="".join(nidhi)
+print(x)
